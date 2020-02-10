@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(197, 197, 197);
+}
+
+nav a {
+    text-decoration: none;
+    color: gray;
+    padding: 60px;
+}
+nav a:hover {
+    color: black;
+}
+ nav{
+     margin: 60px;
+ }
+
+.left {
+    align-items: center;
+    display: flex;
+    margin-top: auto;    
+}
+
+.right {
+    align-items: center;
+    display: flex;
+}
+
+img{
+    width: 48%;
+}
+
+.left p{
+    margin: 100px 50px 100px 50px;
+    border: 2px solid #D4E0CE;
+    padding: 5px 8px 5px 8px;
+}
+
+.right img{
+    width: 117%;
+}
+.entete img {
+
+    width: 25%;
+}
+
+.right strong{
+    margin: 100px 50px 100px 50px;
+    border: 2px solid #D4E0CE;
+    padding: 5px 8px 5px 8px;
+}
+}

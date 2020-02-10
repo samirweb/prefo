@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(197, 197, 197);
+}
+
+nav a {
+    text-decoration: none;
+    color: gray;
+    padding: 60px;
+}
+nav a:hover {
+    color: black;
+}
+
+ul{
+    margin-top: 60px;
+}
+
+.ceo{
+    text-align: center;
+}
+ .presentation{
+    margin:0 0 0 50px ;
+ }
+
+.paragraphe{
+    border: 2px solid #D4E0CE;
+    padding: 20px;
+}

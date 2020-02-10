@@ -1,0 +1,67 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-size: 16px;
+	color: rgba(0, 0, 0);
+	font-family: "Montserrat", sans-serif;
+}
+
+html {
+margin:0;}
+body{
+	margin:0;
+	background-color: black;
+	/*background-image:url("images/wlb.png");*/
+}
+
+#imgAccueil {
+	background: url("../images/wlb.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #040707;
+}
+
+a{
+	color: white;
+}
+
+ul
+{ 
+  display:flex;
+  justify-content: center;
+}
+
+strong{
+	padding:15px;
+}
+
+.photoexpo{
+	width:630px;
+	margin:0 auto;
+}
+
+.photoexpo img {
+	height: 250px;
+	width:auto;
+
+}
+
+/*partis stytle pour la page présentation exposition*/
+
+.selecteur-page {
+	color: white;
+}
+
+.experiance{
+	background-color: #3F424D;
+}
+
+/*partis style pour la page de photos exposition*/
+
+.photos-experience{
+	background-color: #222222;
+}
+
+

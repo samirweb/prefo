@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(197, 197, 197);
+}
+
+/*
+#global {
+    width: 1400px;
+    margin: 0 auto;
+    background: no-repeat center center cover url("../images/header.jpg");
+}
+*/
+
+a {
+    text-decoration: none;
+    color: gray;
+    padding: 60px;   
+}
+a:hover {
+    color: black;
+}
+
+nav{
+    margin-top: 60px;
+    
+}
+
+/*à modifier maison !*/
+nav img{
+    height: 427px;
+    background: no-repeat center center cover url("../images/header.jpg");
+}
+
+.img img {
+    padding: 50px;
+}
+
+.img2 img {
+    padding: 50px;
